@@ -1,72 +1,10 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@minhdang206 
-minhdang206
-/
-DiemRenLuyenSV
-Public
-Cannot fork because you own this repository and are not a member of any organizations.
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-DiemRenLuyenSV/readme.md
-@minhdang206
-minhdang206 Create readme.md
-Latest commit 4c9d9fe now
- History
- 1 contributor
-134 lines (119 sloc)  6.99 KB
-
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@minhdang206 
-uvipen
-/
-uvipen
-Public
-Fork your own copy of uvipen/uvipen
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-uvipen/README.md
-@uvipen
-uvipen Update README.md
-Latest commit 811b422 on Jan 13
- History
- 1 contributor
-90 lines (77 sloc)  6.47 KB
-
 ### WELCOME TO MY PAGE 👋👋👋
-My name is Viet Nguyen. I am an M.Sc. in Computer Science, majoring in Artificial Intelligence and Robotics. I am interested in the following topics: Deep Learning in NLP and Computer Vision. Reinforcement Learning.<br>
+Hello, my name is Dang. Right now, I am a 3rd-year student majoring in data science and business analytics.<br>
 ## 📫 How to reach me: 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/vietnguyen-tum/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/uvipen/) [![Youtube](https://github.com/uvipen/introduction/blob/main/Youtube.png) Youtube](https://www.youtube.com/channel/UC66_4puPl1OFS3YAeZ7tRdw)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/minhdangtc/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/minhdang206/)
 
-
-
-![Viet's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=uvipen&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+![Dang's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=minhdang206&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
 <a href="https://github.com/uvipen/QuickDraw/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
