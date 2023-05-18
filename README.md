@@ -23,6 +23,6 @@ Hello, my name is Dang. Right now, I am a 3rd-year student majoring in data scie
 
 ### Technologies & Frameworks
 [![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/minhdang206)
-[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/wervlad)
-[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://hub.docker.com/u/wervlad)
-[![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/wervlad)
+[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/minhdang206)
+[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/minhdang206)
+[![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/minhdang206)
