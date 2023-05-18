@@ -1,4 +1,5 @@
-### WELCOME TO MY PAGE 👋👋👋
+<h1 align="center">Hi, guys! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
+
 Hello, my name is Dang. Right now, I am a 3rd-year student majoring in data science and business analytics.<br>
 ## 📫 How to reach me: 
 
