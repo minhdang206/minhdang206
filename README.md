@@ -33,7 +33,8 @@
 <a href="https://github.com/minhdang206/Classification-of-Vietnamese-newspaper/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=minhdang206&repo=Classification-of-Vietnamese-newspaper&theme=radical" />
-</a>    
+</a>
+        
 <a href="https://github.com/minhdang206/Predict-the-probability-of-hotel-cancellation-based-on-booking-information/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=minhdang206&repo=Predict-the-probability-of-hotel-cancellation-based-on-booking-information&theme=merko" />
