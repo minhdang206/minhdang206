@@ -37,5 +37,5 @@
         
 <a href="https://github.com/minhdang206/Predict-the-probability-of-hotel-cancellation-based-on-booking-information/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=minhdang206&repo=Predict-the-probability-of-hotel-cancellation-based-on-booking-information&theme=merko" />
+  <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=minhdang206&repo=Predict-the-probability-of-hotel-cancellation&theme=merko" />
 </a>
