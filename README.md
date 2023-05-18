@@ -4,6 +4,7 @@
 <a href="https://www.linkedin.com/in/minhdangtc">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
 </a>
+
 ![Dang's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=minhdang206&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
 ### Languages
