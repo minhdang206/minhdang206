@@ -28,3 +28,13 @@
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/minhdang206)
 [![TABLEAU](https://img.shields.io/badge/tableau-black?style=for-the-badge&logo=tableau)](https://github.com/minhdang206)
 <!-- [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/minhdang206) -->
+
+<details>
+<a href="https://github.com/minhdang206/Classification-of-Vietnamese-newspaper/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=minhdang206&repo=Classification-of-Vietnamese-newspaper&theme=radical" />
+</a>    
+<a href="https://github.com/uvipen/ASCII-generator/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=ASCII-generator&theme=merko" />
+</a>
