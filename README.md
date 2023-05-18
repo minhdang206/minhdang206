@@ -8,8 +8,7 @@ Hello, my name is Dang. Right now, I am a 3rd-year student majoring in data scie
 
 ### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/minhdang206)
+[![R](https://img.shields.io/badge/r-black?style=for-the-badge&logo=r)](https://github.com/minhdang206)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/minhdang206)
 [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/minhdang206)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/minhdang206)
-[![R](https://img.shields.io/badge/r-black?style=for-the-badge&logo=r)](https://github.com/minhdang206)
-
