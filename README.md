@@ -1,7 +1,9 @@
 <h1 align="center">Hi, guys! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
 
 <p align='center'> I'm Dang. Right now, I am a 3rd-year student majoring in data science and business analytics.</p><br>
-<p align='center'>[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/minhdangtc/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/minhdang206/)</p>
+<a href="https://www.linkedin.com/in/minhdangtc">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+    </a>
 
 ![Dang's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=minhdang206&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
