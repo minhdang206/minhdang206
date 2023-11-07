@@ -14,7 +14,7 @@
 [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/minhdang206)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/minhdang206)
 
-### DS/ML
+### DA/DS/ML
 [![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)](https://github.com/minhdang206)
 [![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)](https://github.com/minhdang206)
 [![Selenium](https://img.shields.io/badge/selenium-black?style=for-the-badge&logo=selenium)](https://github.com/minhdang206)
