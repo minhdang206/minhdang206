@@ -1,4 +1,4 @@
-<h1 align="center">Hi, guys! <img src="" width="28px" alt="👋"></h1>
+<h1 align="center">Hi, guys! 👋</h1>
 
 <p align='center'> I'm Dang. Right now, I am a 4rd-year student majoring in data science and business analytics.</p><br>
 <a href="https://www.linkedin.com/in/minhdangtc">
